@@ -21,13 +21,13 @@ Install them using `go install`, `apt`, or `pip` as appropriate.
 # 🚀 Usage
 
 # 1. Save the script
-##
+###
     curl -O https://raw.githubusercontent.com/RiajulKamal/subdomainFind/refs/heads/main/subdomainFind.sh
 
 # 2. Make it executable
 ##
-  chmod +x findLiveSubdomains.sh
+    chmod +x findLiveSubdomains.sh
 
 # 3. Run the script
 ##
-  ./findLiveSubdomains.sh
+    ./findLiveSubdomains.sh
