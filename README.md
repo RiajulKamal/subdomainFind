@@ -20,12 +20,14 @@ Install them using `go install`, `apt`, or `pip` as appropriate.
 
 ## 🚀 Usage
 
-```bash
 # 1. Save the script
+```bash
 curl -O https://raw.githubusercontent.com/RiajulKamal/subdomainFind/refs/heads/main/subdomainFind.sh
 
 # 2. Make it executable
+```bash
 chmod +x findLiveSubdomains.sh
 
 # 3. Run the script
+```bash
 ./findLiveSubdomains.sh
