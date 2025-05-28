@@ -18,11 +18,11 @@ Install them using `go install`, `apt`, or `pip` as appropriate.
 
 ---
 
-## 🚀 Usage
+# 🚀 Usage
 
 # 1. Save the script
 ##
-  curl -O https://raw.githubusercontent.com/RiajulKamal/subdomainFind/refs/heads/main/subdomainFind.sh
+    curl -O https://raw.githubusercontent.com/RiajulKamal/subdomainFind/refs/heads/main/subdomainFind.sh
 
 # 2. Make it executable
 ##
